@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Quantifying Survival Inequalities in Oncology Using "
+title: 'Tutorial: Quantifying Survival Inequalities in Oncology Using '
 output:
   html_document:
     df_print: paged
