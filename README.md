@@ -1,4 +1,4 @@
-# Quantifying Health Inequalities in Oncology 
+# Quantifying Health Inequalities in Oncology
 
 This repository stores a tutorial describing the process for quantifying the impact of interventions on survival inequalities in oncology based on Kaplan-Meier curves. It is provided as supplementary material to the following manuscript:
 
